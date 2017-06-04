@@ -18,7 +18,7 @@ or if you're using [yarn](https://yarnpkg.com),
 $ yarn global add react-scaffolder
 ```
 
-## Quick Start
+## Quick Start guide
 
 Quickest way to get up and running with react-scaffolder
 
