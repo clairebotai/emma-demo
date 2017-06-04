@@ -148,6 +148,6 @@ This specifies that React components are placed in `src/components` directory.
 
 For more information refer [CONTRIBUTING.md](https://github.com/99xt/react-cli/blob/master/CONTRIBUTING.md)
 
-## License
+## License :tada:
 
 MIT © [99XT](https://github.com/99xt)
